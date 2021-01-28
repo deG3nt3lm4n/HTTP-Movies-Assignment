@@ -24,3 +24,9 @@ function SavedList({ list }) {
 }
 
 export default SavedList;
+
+// we are importing react
+// we are import NavLink and Link from react-router-dom
+
+// Saved list has a prop names "list", which is an array and it ruturns our saved movies.
+
